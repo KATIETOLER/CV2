@@ -1,0 +1,14 @@
+body
+  {
+    background-color: #D6EFC7;
+   }
+
+
+hr {
+height: opx;
+width: 2.5%;
+border-width:3px;
+border-style: dotted none none;
+background-color: none;
+border-color: #96BB7C;
+}
